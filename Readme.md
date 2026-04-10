@@ -9,7 +9,7 @@ A full-stack lending decision app where you enter a business profile and loan re
 | Frontend | React 18, Vite, Tailwind CSS, react-hook-form, Zod |
 | Backend  | Node.js, Express                             |
 | Database | PostgreSQL (structured data), MongoDB (audit logs) |
-| Infra    | Docker Compose (local), Vercel + Render (prod)     |
+| Infra    | Docker Compose (local), Railway (Prod)   |
 
 ---
 
